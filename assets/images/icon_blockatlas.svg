@@ -1,0 +1,31 @@
+<svg width="236" height="236" viewBox="0 0 236 236" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="235.861" height="235.861" rx="52.0282" fill="white"/>
+<path d="M117.904 74.4296C132.852 86.0881 149.995 85.369 154.892 85.369C153.821 151.674 145.658 142.84 117.904 161.432C90.1491 142.84 82.0371 151.674 80.9657 85.369C85.8125 85.369 102.955 86.0881 117.904 74.4296Z" stroke="white" stroke-width="9.36508" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M119.667 79.9613C132.684 90.0698 147.611 89.4464 151.875 89.4464C150.942 146.936 143.834 139.277 119.667 155.397C95.5002 139.277 88.4367 146.936 87.5038 89.4464C91.7242 89.4464 106.651 90.0698 119.667 79.9613Z" stroke="white" stroke-width="9.36508" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="25" y="25" width="186" height="186">
+<circle cx="118.183" cy="117.679" r="92.5341" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<g filter="url(#filter0_i)">
+<circle cx="118.183" cy="117.679" r="92.5341" fill="url(#paint0_linear)"/>
+</g>
+</g>
+<path d="M118.152 68.0842C135.935 81.7802 156.328 80.9355 162.155 80.9355C160.88 158.828 151.169 148.45 118.152 170.291C85.1341 148.45 75.4838 158.828 74.2092 80.9355C79.9752 80.9355 100.368 81.7802 118.152 68.0842Z" fill="#2A81DE" stroke="white" stroke-width="12.4991" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M131.177 116.524C133.389 117.298 135.122 118.515 136.376 120.174C137.63 121.797 138.256 123.769 138.256 126.092C138.256 129.485 136.892 132.103 134.163 133.946C131.435 135.79 127.489 136.712 122.327 136.712H101.42V97.9949H121.221C126.162 97.9949 129.923 98.9167 132.504 100.76C135.085 102.567 136.376 105.019 136.376 108.117C136.376 109.96 135.915 111.62 134.993 113.095C134.108 114.533 132.836 115.676 131.177 116.524ZM112.261 105.904V113.371H119.783C123.47 113.371 125.314 112.117 125.314 109.61C125.314 107.139 123.47 105.904 119.783 105.904H112.261ZM121.442 128.803C125.277 128.803 127.194 127.494 127.194 124.876C127.194 122.258 125.277 120.949 121.442 120.949H112.261V128.803H121.442Z" fill="white"/>
+<defs>
+<filter id="filter0_i" x="25.6493" y="25.1451" width="185.068" height="192.352" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="7.28395"/>
+<feGaussianBlur stdDeviation="8.8448"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0703457 0 0 0 0 0.496071 0 0 0 0 0.947598 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow"/>
+</filter>
+<linearGradient id="paint0_linear" x1="210.717" y1="223.54" x2="55.4744" y2="43.7621" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0E65C1"/>
+<stop offset="1" stop-color="#439BF8"/>
+</linearGradient>
+</defs>
+</svg>
